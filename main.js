@@ -6,7 +6,7 @@ const klaw = require("klaw");
 const path = require("path");
 require("dotenv").config();
 
-class ESD extends Client {
+class Bot extends Client {
   constructor(options) {
     super(options);
 
@@ -77,7 +77,7 @@ class ESD extends Client {
   }
 }
 
-const client = new ESD();
+const client = new Bot();
 console.log(client.config.permLevels.map(p => `${p.level}: ${p.name}`));
 
 // Fonction d'initialisation
