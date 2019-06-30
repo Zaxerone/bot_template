@@ -74,7 +74,7 @@ module.exports = class {
 # Crédits
 - **DevLight Team**
 
-`『DL』Zaxerone 『TP』#3812`
-`『DL』 _ElUrukrod_#5054`
-`『DL』Sentoflash#5962`
+`『DL』Zaxerone 『TP』#3812`,
+`『DL』 _ElUrukrod_#5054`,
+`『DL』Sentoflash#5962`,
 `_Arr0w_#0243`
