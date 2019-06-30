@@ -43,3 +43,28 @@ module.exports = class {
   }
 };
 ```
+# Quels sont les modules nécessaires ?
+- Vous n'avez pas besoin d'installer tous les modules qui vont suivre 1 par 1, vous avez juste à faire `npm install` et cela installera tous les modules.
+```xl
+- better-sqlite-pool
+- body-parser
+- chalk
+- discord.js
+- dotenv
+- ejs
+- enmap
+- express
+- express-passport
+- express-session
+- helmet
+- klaw
+- marked
+- memorystore
+- moment
+- moment-duration-format
+- ms
+- passport
+- passport-discord
+- readline-sync
+- snekfetch
+```
