@@ -68,3 +68,5 @@ module.exports = class {
 - readline-sync
 - snekfetch
 ```
+
+*(Je ne suis pas responsable des bots que vous créez avec cette Template, sais vous avez une erreur c'est à vous de la résoudre).*
