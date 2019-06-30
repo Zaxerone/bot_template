@@ -78,3 +78,10 @@ module.exports = class {
 `『DL』 _ElUrukrod_#5054`,
 `『DL』Sentoflash#5962`,
 `_Arr0w_#0243`
+
+- **DevLight Projects**
+
+`Easy Discord Bot`,
+`OlympusNetwork`,
+`GuildProtect`,
+`SentoBot`
