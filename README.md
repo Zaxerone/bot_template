@@ -72,7 +72,7 @@ module.exports = class {
 *(Je ne suis pas responsable des bots que vous créez avec cette Template, sais vous avez une erreur c'est à vous de la résoudre).*
 
 # Crédits
-**DevLight Team**
+- **DevLight Team**
 
 `『DL』Zaxerone 『TP』#3812`
 `『DL』 _ElUrukrod_#5054`
