@@ -41,4 +41,5 @@ module.exports = class {
 // Reste du code
     );
   }
-};```
+};
+```
