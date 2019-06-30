@@ -30,3 +30,15 @@ class Cmd extends Command {
 
 module.exports = Cmd;
 ```
+- Puis pourez aussi créer des events en créant un fichier `monEvent.js` dans le dossier `events` en suivant ce modèle-ci
+```js
+module.exports = class {
+  constructor(client) {
+    this.client = client;
+  }
+
+  async run(/*Type d'event*/) {
+// Reste du code
+    );
+  }
+};```
