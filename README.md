@@ -87,4 +87,5 @@ module.exports = class {
 `SentoBot`
 
 - **DevLight Support Invite**
-https://discord.gg/hWtaWzp
+
+`-`https://discord.gg/hWtaWzp
