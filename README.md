@@ -7,7 +7,7 @@
 *Exemple de .env*
 
 `CLIENT_TOKEN=TokenDuBot`
-- Pour créer une commande, créer un fichier `maCommande.js` dans le dossier `commands/Utilisateur` et mettez ce modèle pour le lancer.
+- Pour créer une commande, créez un fichier `maCommande.js` dans le dossier `commands/Utilisateur` et mettez ce modèle pour le lancer.
 ```js
 const Command = require("../../modules/Command.js");
 
