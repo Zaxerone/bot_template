@@ -3,6 +3,8 @@
 
 # Comment utiliser la template ?
 - Pour utiliser la Template il suffis de créer un fichier `.env` et mettre le token du bot dedans.
+*Exemple de .env*
+`CLIENT_TOKEN=TokenDuBot`
 - Pour créer une commande, créer un fichier `maCommande.js` dans le dossier `commands/Utilisateur` et mettez ce modèle pour le lancer.
 ```js
 const Command = require("../../modules/Command.js");
