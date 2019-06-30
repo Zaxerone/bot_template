@@ -14,9 +14,7 @@ module.exports = class {
     this.client.user.setActivity(`${this.client.guilds.size} Guilds`, {type: "PLAYING"});
 
     this.client.logger.log(
-      `Flareon est prêt à espionner ${
-        this.client.users.size
-      } utilisateurs sur ${this.client.channels.size} salons.`,
+      `Le bot est prêt. ${this.client.users.size} Utilisateurs - ${this.client.guilds.size} Guilds.`,
       "ready"
     );
   }
