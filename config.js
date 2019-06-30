@@ -39,7 +39,7 @@ const config = {
     },
     {
       level: 3,
-      name: "ESD",
+      name: "Bot",
       check: message => message.client.appInfo.owner.id === message.author.id
     }
   ]
