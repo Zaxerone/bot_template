@@ -1,5 +1,5 @@
 # Bot Template
-- Une simple template d'un bot Discord avec divers module. Template de bot réservé aux développeurs experimenté.
+Une template de bot discord fait en class handler/
 
 # Comment utiliser la template ?
 - Pour utiliser la Template il suffis de créer un fichier `.env` et mettre le token du bot dedans.
@@ -71,21 +71,5 @@ module.exports = class {
 
 *(Je ne suis pas responsable des bots que vous créez avec cette Template, sais vous avez une erreur c'est à vous de la résoudre).*
 
-# Crédits
-- **DevLight Team**
-
-`『DL』Zaxerone 『TP』#3812`,
-`『DL』 _ElUrukrod_#5054`,
-`『DL』Sentoflash#5962`,
-`_Arr0w_#0243`
-
-- **DevLight Projects**
-
-`Easy Discord Bot`,
-`OlympusNetwork`,
-`GuildProtect`,
-`SentoBot`
-
-- **DevLight Support Invite**
-
-`-`https://discord.gg/hWtaWzp
+# Lancer le bot
+Pour lancer le bot il suffis simplement d'éxécuter la commande `npm test` ou `npm build`.
