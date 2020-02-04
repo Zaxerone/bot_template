@@ -1,5 +1,5 @@
 # Bot Template
-Une template de bot discord fait en class handler/
+Une template de bot discord fait en class handler.
 
 # Comment utiliser la template ?
 - Pour utiliser la Template il suffis de créer un fichier `.env` et mettre le token du bot dedans.
