@@ -4,7 +4,8 @@
   "description": "A discord bot class handler template",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js"
+    "test": "node main.js",
+    "build": "npm install --production && node main.js"
   },
   "author": "Zaxerone",
   "license": "MIT",
