@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
+  "name": "bot_template",
+  "version": "1.0.0",
+  "description": "A discord bot class handler template",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node main.js"
   },
   "author": "Zaxerone",
   "license": "MIT",
