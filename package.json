@@ -21,7 +21,7 @@
     "express-passport": "^0.1.0",
     "express-session": "^1.15.6",
     "helmet": "^3.9.0",
-    "klaw": "^2.1.1",
+    "klaw": "^3.0.0",
     "marked": "^0.8.0",
     "memorystore": "^1.6.0",
     "moment": "^2.22.2",
