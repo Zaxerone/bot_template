@@ -15,7 +15,7 @@
     "chalk": "^2.4.1",
     "discord.js": "^12.0.2",
     "dotenv": "^6.2.0",
-    "ejs": "^2.5.7",
+    "ejs": "^3.0.1",
     "enmap": "^4.3.2",
     "express": "^4.16.2",
     "express-passport": "^0.1.0",
