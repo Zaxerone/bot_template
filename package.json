@@ -10,7 +10,7 @@
   "author": "Zaxerone",
   "license": "MIT",
   "dependencies": {
-    "better-sqlite-pool": "^0.2.0",
+    "better-sqlite-pool": "^0.3.0",
     "body-parser": "^1.18.2",
     "chalk": "^3.0.0",
     "discord.js": "^11.4.2",
