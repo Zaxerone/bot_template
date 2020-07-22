@@ -20,7 +20,7 @@
     "ejs": "^3.0.1",
     "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
-    "enmap": "^4.3.2",
+    "enmap": "^5.4.0",
     "express": "^4.16.2",
     "express-passport": "^0.1.0",
     "express-session": "^1.15.6",
