@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: marked
+    versions:
+    - 1.2.8
+    - 1.2.9
+    - 2.0.0
+    - 2.0.1
+  - dependency-name: enmap
+    versions:
+    - 5.8.4
+  - dependency-name: helmet
+    versions:
+    - 4.4.1
+  - dependency-name: chalk
+    versions:
+    - 4.1.0
